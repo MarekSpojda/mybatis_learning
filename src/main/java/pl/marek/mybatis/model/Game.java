@@ -1,8 +1,5 @@
 package pl.marek.mybatis.model;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class Game {
     private long id;
     private String title;
